@@ -1,7 +1,9 @@
 # CA2 - part 3 & 4
 ## branch name: master
 ### DOCKER
+
 ***
+
 * Create a *docker network*:
 
 docker network create mysql

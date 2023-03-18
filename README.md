@@ -3,7 +3,7 @@
 
 ### DOCKER
 ***
-#### Create a **docker network**:
+#### Create a **docker network** :
 docker network create mysql
 ---
 #### Provide a command that will run a mysql:latest docker image with the name of db with a root password=my-secret-password:
